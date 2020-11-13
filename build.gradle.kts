@@ -4,7 +4,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     id("com.diffplug.spotless") version "5.7.0"
     id("com.gradle.plugin-publish") version "0.12.0"
-    id("io.toolebox.git-versioner") version "1.4.0"
+    id("io.toolebox.git-versioner") version "1.6.5"
     id("org.sonarqube") version "3.0"
     id("pl.droidsonroids.jacoco.testkit") version "1.0.7"
     jacoco
